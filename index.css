@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(212, 247, 235);
+    background-color: #D7BDE2;
 }
 h1{
-    font-weight: 900;
+    font-weight: 1000;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 7% 36% 3%;
 }
@@ -10,18 +10,18 @@ h1{
     margin: 0% 27%;
     width: 600px;
     height: 350px;
-    border: black;
+    border: #961683;
     border-width: 6px;
     border-radius: 4px;
 }
 p{
-    color: red;
-    font-size: x-small;
+    color: #6D32A8;
+    font-size: small;
     margin-left: 40%;
     margin-top: 1%;
 }
 .btn{
-        background-color: #4CAF50; /* Green */
+        background-color:#ACDFB3;
         border: none;
         border-radius: 10px;
         color: white;
